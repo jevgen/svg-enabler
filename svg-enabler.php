@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: 	SVG Enabler
-Plugin URI:		https://codepen.io/chriscoyier/post/wordpress-4-7-1-svg-upload
+Plugin URI:		https://github.com/jevgen/svg-enabler/
 Description: 	Enable upload of SVG files to the Media Library and render SVG files thumbnails.
 Version: 		1
 Author: 		Chris Coyer, Ricky Synnot, pudDesign, Jevgenijs Cernihovics
-Author URI: 	http://css-tricks.com
+Author URI: https://codepen.io/chriscoyier/post/wordpress-4-7-1-svg-upload
 Text Domain: 	svg-enabler
 Domain Path:	/languages
 License: 		GPLv2 or later
